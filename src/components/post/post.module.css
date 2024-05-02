@@ -1,0 +1,51 @@
+.postContainer {
+  background-color: #f8f9fa;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 800px;
+}
+
+.postInfoContainer {
+  display: flex;
+  margin-bottom: 20px;
+  width: fit-content;
+}
+
+.postImageContainer {
+  overflow: hidden;
+  border-radius: 50%;
+  margin-right: 20px;
+  width: 50px;
+  height: 50px;
+}
+
+.userName {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.postDate {
+  font-size: 15px;
+  color: darkgray;  
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.viewMoreLink {
+  font-size: 15px;
+  color: gray;
+}
+
+.mediaContainer {
+  margin-top: 20px;
+  position: relative;
+  min-height: 500px;
+}
+
+.postImage {
+  object-fit: contain;
+}

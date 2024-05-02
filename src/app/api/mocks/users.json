@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "id": "0b6992cf-c9da-4097-aeac-8f0ebf23af65",
+      "name": { "first": "Michelangelo", "last": "List" },
+      "location": {
+        "city": "Stein Lb",
+        "state": "Noord-Brabant",
+        "country": "Netherlands"
+      },
+      "email": "michelangelo.list@example.com",
+      "cellphone": "(06) 76271766",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/93.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
+      }
+    },
+    {
+      "id": "0f749186-c988-4752-b847-485e28f1d5e3",
+      "name": { "first": "Afet", "last": "Özbir" },
+      "location": { "city": "Konya", "state": "İstanbul", "country": "Turkey" },
+      "email": "afet.ozbir@example.com",
+      "cellphone": "(736)-518-9768",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/16.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+      }
+    },
+    {
+      "id": "44e73de3-d0b3-4f1c-8d8a-800cb4b1ba94",
+      "name": { "first": "Sofia", "last": "Denis" },
+      "location": {
+        "city": "Orny",
+        "state": "Obwalden",
+        "country": "Switzerland"
+      },
+      "email": "sofia.denis@example.com",
+      "cellphone": "075 564 67 91",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+      }
+    },
+    {
+      "id": "9f23f04c-2cf2-4de3-a36e-a92f1b135249",
+      "name": { "first": "Elmer", "last": "Warren" },
+      "location": {
+        "city": "Laytown-Bettystown-Mornington",
+        "state": "Cork",
+        "country": "Ireland"
+      },
+      "email": "elmer.warren@example.com",
+      "cellphone": "081-863-0059",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/15.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/15.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
+      }
+    },
+    {
+      "id": "2afde699-b7f1-4ea2-897b-be210a90cf44",
+      "name": { "first": "Sander", "last": "Hansen" },
+      "location": {
+        "city": "Beder",
+        "state": "Nordjylland",
+        "country": "Denmark"
+      },
+      "email": "sander.hansen@example.com",
+      "cellphone": "57884967",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/22.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+      }
+    },
+    {
+      "id": "54e23881-c41b-49f3-8823-3d0a2c5b2c93",
+      "name": { "first": "Raïsa", "last": "Van der Kaap" },
+      "location": {
+        "city": "Trimunt",
+        "state": "Noord-Brabant",
+        "country": "Netherlands"
+      },
+      "email": "raisa.vanderkaap@example.com",
+      "cellphone": "(06) 33894937",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/55.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+      }
+    },
+    {
+      "id": "a5018f7d-d458-4134-8293-31944e578ad2",
+      "name": { "first": "Cilly", "last": "Lührs" },
+      "location": {
+        "city": "Forchheim",
+        "state": "Berlin",
+        "country": "Germany"
+      },
+      "email": "cilly.luhrs@example.com",
+      "cellphone": "0176-6353379",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/47.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/47.jpg"
+      }
+    },
+    {
+      "id": "ceac348d-db2e-4b8c-ad7e-ac1e22abccff",
+      "name": { "first": "Svetlana", "last": "Tošić" },
+      "location": {
+        "city": "Bajina Bašta",
+        "state": "North Banat",
+        "country": "Serbia"
+      },
+      "email": "svetlana.tosic@example.com",
+      "cellphone": "069-0524-213",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/67.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
+      }
+    },
+    {
+      "id": "d8637e0e-4798-4036-af95-5c6d039cb50c",
+      "name": { "first": "Vlado", "last": "Stepanović" },
+      "location": {
+        "city": "Požarevac",
+        "state": "Rasina",
+        "country": "Serbia"
+      },
+      "email": "vlado.stepanovic@example.com",
+      "cellphone": "063-0704-801",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/60.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
+      }
+    },
+    {
+      "id": "23c555de-6f5c-432c-a370-35bc9553a285",
+      "name": { "first": "Irene", "last": "Daniels" },
+      "location": {
+        "city": "Steilacoom",
+        "state": "Nevada",
+        "country": "United States"
+      },
+      "email": "irene.daniels@example.com",
+      "cellphone": "(977) 244-0022",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/76.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+      }
+    },
+    {
+      "id": "f42f8090-13a3-4af5-9447-e88823582bab",
+      "name": { "first": "Kavyashri", "last": "Bharanya" },
+      "location": {
+        "city": "Allahabad",
+        "state": "Himachal Pradesh",
+        "country": "India"
+      },
+      "email": "kavyashri.bharanya@example.com",
+      "cellphone": "7914967886",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/8.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+      }
+    },
+    {
+      "id": "56cf8aed-ddd0-479a-9642-5d6656d0fc43",
+      "name": { "first": "Ali", "last": "Okumuş" },
+      "location": {
+        "city": "Şanlıurfa",
+        "state": "Artvin",
+        "country": "Turkey"
+      },
+      "email": "ali.okumus@example.com",
+      "cellphone": "(407)-435-0214",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/55.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+      }
+    },
+    {
+      "id": "0ad856de-3e09-4473-96c2-c63fca4d7ec5",
+      "name": { "first": "رها", "last": "پارسا" },
+      "location": { "city": "قزوین", "state": "زنجان", "country": "Iran" },
+      "email": "rh.prs@example.com",
+      "cellphone": "0919-002-9557",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/96.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+      }
+    },
+    {
+      "id": "aad5e9f2-7c2f-47ed-b89b-6dee158851b1",
+      "name": { "first": "Nicky", "last": "Hunt" },
+      "location": {
+        "city": "Winchester",
+        "state": "Lancashire",
+        "country": "United Kingdom"
+      },
+      "email": "nicky.hunt@example.com",
+      "cellphone": "07917 061022",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/53.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+      }
+    },
+    {
+      "id": "02af3b3d-991f-4c63-8274-d8ba496ef19c",
+      "name": { "first": "Joselien", "last": "Steeghs" },
+      "location": {
+        "city": "Eesergroen",
+        "state": "Limburg",
+        "country": "Netherlands"
+      },
+      "email": "joselien.steeghs@example.com",
+      "cellphone": "(06) 08818013",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/56.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+      }
+    }
+  ]
+}

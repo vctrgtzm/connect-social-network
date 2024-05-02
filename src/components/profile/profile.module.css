@@ -1,0 +1,33 @@
+.profileContainer {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 800px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profileContainer h2 {
+  margin-bottom: 20px;
+}
+
+.userInfoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.userPictureContainer {
+  overflow: hidden;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.userName {
+  margin-bottom: 10px;
+}
